@@ -1,0 +1,8 @@
+opencv-python
+dlib
+imutils
+scipy
+numpy
+deepface
+SpeechRecognition
+playsound
